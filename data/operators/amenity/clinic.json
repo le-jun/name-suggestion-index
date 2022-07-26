@@ -647,6 +647,17 @@
       }
     },
     {
+      "displayName": "Medische Zending Primary Health Care Suriname",
+      "locationSet": {"include": ["sr"]},
+      "tags": {
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "operator": "Medische Zending Primary Health Care Suriname",
+        "operator:short": "MZ;Medische Zending",
+        "operator:wikidata": "Q25230853"
+      }
+    },
+    {
       "displayName": "Michigan Medicine",
       "id": "michiganmedicine-5a0195",
       "locationSet": {
